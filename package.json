@@ -3,8 +3,8 @@
   "version": "6.4.8",
   "description": "Fix broken node modules with no fuss",
   "main": "dist/index.js",
-  "repository": "github:dianlemel/patch-package",
-  "author": "David Sheldrick",
+  "repository": "github:dianlemel/my-patch-package",
+  "author": "",
   "license": "MIT",
   "engines": {
     "npm": ">5"
